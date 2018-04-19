@@ -1,0 +1,23 @@
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.vbproj.ResolveComReference.cache
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.CommandBar.resources
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.vbproj.GenerateResource.Cache
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\bin\MySSMSAddin.dll
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\bin\MySSMSAddin.pdb
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\bin\MySSMSAddin.xml
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.dll
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.xml
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.pdb
+C:\Users Documets\shai\My Documents\Visual Studio 2008\Projects\MySSMSAddin\MySSMSAddin\obj\Debug\MySSMSAddin.MyAddinWindow.resources
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\bin\MySSMSAddin.dll
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\bin\MySSMSAddin.pdb
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\bin\MySSMSAddin.xml
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\bin\Extensibility.dll
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.vbproj.ResolveComReference.cache
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.CommandBar.resources
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.MyAddinWindow.resources
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.vbproj.GenerateResource.Cache
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.dll
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.xml
+C:\Users\luiz.mayer\Desktop\MySSMS\MySSMSAddin\obj\Debug\MySSMSAddin.pdb
